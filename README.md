@@ -2,14 +2,14 @@
 
 Downloads for Windows PCs, Android phones and Android TV.
 
-**Current version: 1.1.5 (preview)**
+**Current version: 1.1.6 (preview)**
 
 | Your device | Download |
 | --- | --- |
-| Android phone or Android TV | [Download Android app](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/download/v1.1.5-preview.20261021/MyPersonalKodi-Android.apk) |
-| Windows PC (64-bit) | [Download Windows app](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/download/v1.1.5-preview.20261021/MyPersonalKodi-Windows.zip) |
+| Android phone or Android TV | [Download Android app](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/download/v1.1.6-preview.20261026/MyPersonalKodi-Android.apk) |
+| Windows PC (64-bit) | [Download Windows app](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/download/v1.1.6-preview.20261026/MyPersonalKodi-Windows.zip) |
 
-[See what's new](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/tag/v1.1.5-preview.20261021)
+[See what's new](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/tag/v1.1.6-preview.20261026)
 
 ## Install on Android
 
@@ -36,7 +36,9 @@ The owner connects Real-Debrid and TorBox for the family. Each profile can conne
 
 ## Update the app
 
-Return to this page for the newest download.
+From version 1.1.6, the app checks for a newer version when it starts. Choose **Update now**, or open **Settings > Check for updates**. Android asks you to confirm installation and may ask you to allow updates from MyPersonalKodi. Windows restarts to finish installing.
+
+For older versions, or if the automatic update cannot finish, use the downloads above:
 
 - **Android:** install the new APK over the existing app. Do not uninstall first if you want to keep its saved setup.
 - **Windows:** close the app, extract the new ZIP into a new folder and run it from there.
