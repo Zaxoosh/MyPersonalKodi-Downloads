@@ -2,14 +2,14 @@
 
 Downloads for Windows PCs, Android phones and Android TV.
 
-**Current version: 1.2.3 (preview)**
+**Current version: 1.2.4 (preview)**
 
 | Your device | Download |
 | --- | --- |
-| Android phone or Android TV | [Download Android app](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/download/v1.2.3-preview.20261108/MyPersonalKodi-Android.apk) |
-| Windows PC (64-bit) | [Download Windows app](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/download/v1.2.3-preview.20261108/MyPersonalKodi-Windows.zip) |
+| Android phone or Android TV | [Download Android app](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/download/v1.2.4-preview.20261109/MyPersonalKodi-Android.apk) |
+| Windows PC (64-bit) | [Download Windows app](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/download/v1.2.4-preview.20261109/MyPersonalKodi-Windows.zip) |
 
-[See what's new](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/tag/v1.2.3-preview.20261108)
+[See what's new](https://github.com/Zaxoosh/MyPersonalKodi-Downloads/releases/tag/v1.2.4-preview.20261109)
 
 ## Install on Android
 
